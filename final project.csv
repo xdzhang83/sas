@@ -1,4 +1,4 @@
-State,Population,Vehicle miles traveled (millions),Fatal crashes,Deaths,"Deaths per 100,000 population",Deaths per 100 million vehicle miles traveled,,,,,,,,,
+State,Population,Vehicle miles traveled (millions),Fatal crashes,Deaths,"Deaths per 100,000 population",Deaths per 100 million vehicle miles traveled
 Alabama,"4,874,747","69,277",864,948,19.4,1.37
 Alaska,"739,795","5,028",75,79,10.7,1.57
 Arizona,"7,016,270","67,821",919,"1,000",14.3,1.47
@@ -50,4 +50,4 @@ Washington,"7,405,743","61,569",536,565,7.6,0.92
 West Virginia,"1,815,857","20,106",280,303,16.7,1.51
 Wisconsin,"5,795,483","64,160",557,613,10.6,0.96
 Wyoming,"579,315","9,492",105,123,21.2,1.3
-U.S. total,"325,719,178","3,213,000","34,247","37,133",11.4,1.16
+
